@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <?php
+        include("mostrar.php");
+    ?>
+    <a href="index.php">Volver</a>
 </body>
 </html>
